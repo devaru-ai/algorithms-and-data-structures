@@ -2,9 +2,9 @@
 
 | Topic                        | Problem                                 | Status |
 |------------------------------|-----------------------------------------|--------|
-| Arrays (Two Pointers)        | Two Sum II (Sorted Array)               | ◧      |
+| Arrays (Two Pointers)        | Two Sum II (Sorted Array)               | ✓      |
 | Arrays (Two Pointers)        | 3Sum                                    | ✓      |
-| Arrays (Two Pointers)        | Container With Most Water               | ☐      |
+| Arrays (Two Pointers)        | Container With Most Water               | ◧      |
 | Arrays (Sliding Window)      | Longest Substring Without Repeating Characters | ☐   |
 | Arrays (Sliding Window)      | Minimum Window Substring                | ☐      |
 | Arrays (Sliding Window)      | Longest Repeating Character Replacement | ☐      |
