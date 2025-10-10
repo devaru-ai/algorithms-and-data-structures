@@ -4,10 +4,10 @@
 |--------------------------------|-------------------------------------|--------|
 | HashMap Basics                 | Two Sum                             | ☐      |
 | HashMap Basics                 | Contains Duplicate                  | ☐      |
-| HashMap Basics                 | Valid Anagram                       | ☐      |
-| HashMap Basics                 | Group Anagrams                      | ☐      |
+| HashMap Basics                 | Valid Anagram                       | ✔️      |
+| HashMap Basics                 | Group Anagrams                      | ✔️      |
 | HashMap Basics                 | Intersection of Two Arrays II       | ☐      |
-| HashMap + Frequency            | Top K Frequent Elements             | ☐      |
+| HashMap + Frequency            | Top K Frequent Elements             | 🔁 ✔️      |
 | HashMap + Sliding Window       | Longest Substring Without Repeating Characters | ☐      |
 | HashMap + Sliding Window       | Minimum Window Substring            | ☐      |
 | HashMap + Prefix Sum           | Subarray Sum Equals K               | ☐      |
