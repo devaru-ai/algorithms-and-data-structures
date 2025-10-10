@@ -8,8 +8,8 @@
 | Arrays (Sliding Window)      | Longest Substring Without Repeating Characters | ✓   |
 | Arrays (Sliding Window)      | Minimum Window Substring                |  ◧       |
 | Arrays (Sliding Window)      | Longest Repeating Character Replacement | ✓      |
-| Arrays (Prefix/Suffix Sum)   | Subarray Sum Equals K                   | ☐      |
-| Arrays (Prefix/Suffix Sum)   | Product of Array Except Self            | ☐      |
+| Arrays (Prefix/Suffix Sum)   | Subarray Sum Equals K                   | ◧       |
+| Arrays (Prefix/Suffix Sum)   | Product of Array Except Self            | ✓      |
 | Arrays (In-Place)            | Rotate Array                            | ☐      |
 | Arrays (In-Place)            | Set Matrix Zeroes                       | ☐      |
 | Strings (Hash Maps)          | Valid Anagram                           | ☐      |
