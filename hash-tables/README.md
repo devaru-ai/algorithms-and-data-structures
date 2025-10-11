@@ -11,7 +11,7 @@
 | HashMap + Sliding Window       | Longest Substring Without Repeating Characters | ☐      |
 | HashMap + Sliding Window       | Minimum Window Substring            | ☐      |
 | HashMap + Prefix Sum           | Subarray Sum Equals K               | ☐      |
-| HashMap + Prefix Sum           | Longest Consecutive Sequence        | ☐      |
+| HashMap + Prefix Sum           | Longest Consecutive Sequence        | ✔️       |
 | HashMap + Design               | LRU Cache                           | ☐      |
 | HashMap + Design               | Design HashMap                      | ☐      |
 | HashMap + Design               | Insert Delete GetRandom O(1)        | ☐      |
