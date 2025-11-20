@@ -4,10 +4,10 @@
 
 | Topic (Pattern)                   | Problem                                             | Status |
 |-----------------------------------|-----------------------------------------------------|--------|
-| Traversal (BFS & DFS)             | Binary Tree Level Order Traversal                   | ☐      |
-| Traversal (BFS & DFS)             | Binary Tree Inorder, Preorder, Postorder Traversal  | ☐      |
-| Recursion                         | Maximum Depth of Binary Tree                        | ☐      |
-| BST Properties                    | Validate Binary Search Tree                         | ☐      |
+| Traversal (BFS & DFS)             | Binary Tree Level Order Traversal                   | ✔    |
+| Traversal (BFS & DFS)             | Binary Tree Inorder, Preorder, Postorder Traversal  | ✔     |
+| Recursion                         | Maximum Depth of Binary Tree                        | ✔     |
+| BST Properties                    | Validate Binary Search Tree                         | ✔ !!      |
 | BST Properties                    | Lowest Common Ancestor of a Binary Search Tree      | ☐      |
 | BST Properties                    | Kth Smallest Element in a BST                       | ☐      |
 | Recursion & Manipulation          | Invert Binary Tree                                  | ☐      |
