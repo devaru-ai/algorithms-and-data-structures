@@ -8,8 +8,8 @@
 | Traversal (BFS & DFS)             | Binary Tree Inorder, Preorder, Postorder Traversal  | ✔     |
 | Recursion                         | Maximum Depth of Binary Tree                        | ✔     |
 | BST Properties                    | Validate Binary Search Tree                         | ✔ !!      |
-| BST Properties                    | Lowest Common Ancestor of a Binary Search Tree      | ☐      |
-| BST Properties                    | Kth Smallest Element in a BST                       | ☐      |
+| BST Properties                    | Lowest Common Ancestor of a Binary Search Tree      | ✔       |
+| BST Properties                    | Kth Smallest Element in a BST                       | ✔       |
 | Recursion & Manipulation          | Invert Binary Tree                                  | ✔      |
 | Recursion & Manipulation          | Symmetric Tree                                      | ✔      |
 | Recursion & Manipulation          | Construct Binary Tree from Preorder and Inorder     | ☐      |
@@ -25,7 +25,7 @@
 | Balanced Trees                    | Balanced Binary Tree                                | ☐      |
 | Balanced Trees                    | Convert Sorted Array to Binary Search Tree          | ☐      |
 | Tree Construction                 | Serialize and Deserialize Binary Tree               | ☐      |
-| Path/Leaf                         | Path Sum / Path Sum II                              | ☐      |
+| Path/Leaf                         | Path Sum / Path Sum II                              | ✔ !!       |
 | Manipulation                      | Flatten Binary Tree to Linked List                  | ☐      |
 
 
