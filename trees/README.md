@@ -10,11 +10,11 @@
 | BST Properties                    | Validate Binary Search Tree                         | ✔ !!      |
 | BST Properties                    | Lowest Common Ancestor of a Binary Search Tree      | ☐      |
 | BST Properties                    | Kth Smallest Element in a BST                       | ☐      |
-| Recursion & Manipulation          | Invert Binary Tree                                  | ☐      |
-| Recursion & Manipulation          | Symmetric Tree                                      | ☐      |
+| Recursion & Manipulation          | Invert Binary Tree                                  | ✔      |
+| Recursion & Manipulation          | Symmetric Tree                                      | ✔      |
 | Recursion & Manipulation          | Construct Binary Tree from Preorder and Inorder     | ☐      |
 | Path/Max Path                     | Binary Tree Maximum Path Sum                        | ☐      |
-| Subtree/Structure                 | Subtree of Another Tree                             | ☐      |
+| Subtree/Structure                 | Subtree of Another Tree                             | ✔ !!      |
 
 
 
