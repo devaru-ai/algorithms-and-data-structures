@@ -3,7 +3,7 @@
 Prove mathematically where the pointers meet in a cycle
 It turns $O(N)$ space solutions into $O(1)$ space.
 
-1. Middle of the Linked List (Warm-up)
+1. Middle of the Linked List 
 2. Linked List Cycle (detection)
 3. Linked List Cycle II (finding the entrance node—this requires math)
 4. Remove Nth Node From End of List
