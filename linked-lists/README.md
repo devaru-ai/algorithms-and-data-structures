@@ -14,10 +14,10 @@
 | Manipulation                  | Remove Duplicates from Sorted List         | ✔️      |
 | Palindrome                    | Check if Palindrome Linked List            | ✔️      |
 | Arithmetic                    | Add Two Numbers (lists as digits)          | ✔️     |
-| Design                       | LRU Cache (via linked list + hash map)      | ✔️     |
+| Design                       | LRU Cache (via linked list + hash map)      | ✔️!!     |
 | Copy With Random Pointer      | Clone Linked List with Random Pointer      |  ✔️   |
 | Advanced Reversal             | Reverse Nodes in k-Group                   | ✔️      |
-| K-List Merge                  | Merge K Sorted Lists                       | 🔁 ✔️      |
+| K-List Merge                  | Merge K Sorted Lists                       | ✔️!!     |
 
 ## Extra Practice
 
