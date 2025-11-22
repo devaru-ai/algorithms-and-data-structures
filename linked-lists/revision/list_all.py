@@ -130,7 +130,7 @@ def isPalindrome(head):
     right = right.next
   return True
       
-# Arithmetic	Add Two Numbers 
+# Add Two Numbers 
 def addTwoNumbers(l1, l2):
   dummy = ListNode(0)
   curr = dummy()
